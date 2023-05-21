@@ -1,0 +1,5 @@
+12345678|j.qo|123revolucion|Administrador
+3216549|d.io|diana12345|Administrador
+72449650|Yber.M|62756606|Administrador
+71458962|jul.b|0000|Empleado
+789456123|en-Bday|0000|Empleado

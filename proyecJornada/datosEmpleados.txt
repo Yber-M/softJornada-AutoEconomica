@@ -1,0 +1,5 @@
+12345678|Jaime|Quispe Olano|Director|966612781|30|5000.0|j.qo|123revolucion|Administrador|10:41:33|01/12/2022
+3216549|Diana Erika|Infante Oriundo|Director|944233745|30|5000.0|d.io|diana12345|Administrador|17:51:12|01/12/2022
+72449650|Marlon Yber|Quispe Olano|Repartidor|998241463|28|1200.0|Yber.M|62756606|Administrador|16:43:25|08/12/2022
+71458962|Jull|Boyer Roman|Panelista|954789152|21|2600.0|jul.b|0000|Empleado|20:23:05|08/12/2022
+789456123|Emanuel|Buendia|Compaginador|996654123|20|3025.0|en-Bday|0000|Empleado|02:29:12|18/01/2023

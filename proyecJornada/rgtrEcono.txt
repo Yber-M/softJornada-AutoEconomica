@@ -1,0 +1,15 @@
+1|789456123|Daniel|Infante Cornelio|951456258|No se indico el RUC|Petitorio|80.0|Efectivo|15:50:32|05/12/2022
+2|894455110|Jesús|Esquives|998456123|No se indico el RUC|Ordenanza|150.0|Efectivo|16:07:10|05/12/2022
+3|7898456123|Jull|Boyer Roman|954237185|No se indico el RUC|Publicidad|100.0|Transferencia Bancaria|16:27:46|05/12/2022
+4|72449650|Marlon Yber|Quispe Olano|998241463|No se indico el RUC|Nota Informativa|100.0|Yape|15:47:03|05/12/2022
+5|72449650|Marlon Yber|Quispe Olano|998241463|00724496500|Cintillo Publicitario|200.0|Yape|15:47:57|05/12/2022
+6|72449650|Marlon Yber|Quispe Olano|998456123|No se indico el RUC|Ordenanza|150.0|Efectivo|15:48:38|05/12/2022
+6|72449650|Marlon Yber|Quispe Olano|998456123|No se indico el RUC|Ordenanza|150.0|Efectivo|18:48:38|05/12/2022
+7|28244040|Delia|Flor Buendia|945911932|00282441400|Cintillo Publicitario|200.0|Yape|14:06:12|07/12/2022
+8|28244040|Delia|Flor Buendia|941311932|No se indico el RUC|Nota Informativa|100.0|Efectivo|14:11:33|07/12/2022
+9|124578963|Aureliano|Piedra Mar|956231425|No se indico el RUC|Publicidad|100.0|Transferencia Bancaria|14:12:43|07/12/2022
+10|124578963|Aureliano|Piedra Mar|956231425|No se indico el RUC|Cintillo Publicitario|200.0|Efectivo|14:13:20|07/12/2022
+1|786369541|Daniel|Infante Cornelio|955222333|00786369410|Ordenanza|150.0|Transferencia Bancaria|20:25:25|08/12/2022
+2|786369541|Daniel|Infante Cornelio|954126364|00786369410|Publicidad|100.0|Efectivo|20:26:33|08/12/2022
+1|78451236|Jaime|Quispe Joyo|999456381|No se indico el RUC|Petitorio|80.0|Transferencia Bancaria|00:16:09|24/12/2022
+1|456897120|Delia|Olano Diaz|945911932|No se indico el RUC|Nota Informativa|100.0|Transferencia Bancaria|23:32:03|04/02/2023
