@@ -550,8 +550,8 @@ public class frmCliente extends javax.swing.JFrame implements Runnable {
     // BOTÓN Volver al frame de Iniciar Sesión
     private void btnIniciarSesionActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnIniciarSesionActionPerformed
         new frmLogin().setVisible(true);
-        this.setVisible(false);
-        dispose();
+            this.setVisible(false);
+            dispose();
     }//GEN-LAST:event_btnIniciarSesionActionPerformed
 
     // BOTÓN que sirve para que el usuario ingrese el RUC del Cliente (Si es que se requiere)
